@@ -96,7 +96,7 @@ onerror(event: ResponseError) {
 }
 
 oncomplete() {
-  // do somethig after accept all signatures
+  // do somethig after sign the selected requisitions
 }
 ```
 
