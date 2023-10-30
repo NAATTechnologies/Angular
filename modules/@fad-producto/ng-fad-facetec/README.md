@@ -2,13 +2,16 @@
 
 ## Installation
 
+**Angular 9**
+
 ``` bash
 npm install @fad-producto/ng-fad-facetec
 ```
 
-## Update
+**Angular 16**
+
 ``` bash
-npm install @fad-producto/ng-fad-facetec@latest
+npm install @fad-producto/ng-fad-facetec --tag ng16
 ```
 
 ## Assets

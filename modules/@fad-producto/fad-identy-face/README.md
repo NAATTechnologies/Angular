@@ -2,14 +2,17 @@
 
 ## Installation
 
-```
+
+**Angular 9**
+
+``` bash
 npm install @fad-producto/ng-fad-identy-face
 ```
 
-### NOTE: For installations after Angular 9
+**Angular 16**
 
-```
-npm install @fad-producto/ng-fad-identy-face --legacy-peer-deps
+``` bash
+npm install @fad-producto/ng-fad-identy-face --tag ng16
 ```
 
 ## Credentials
